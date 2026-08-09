@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hey, I'm <span style="color:#e63946;">Sajal Singhal</span></h1>
 
-<h3 align="center">🚀 MERN Stack Developer | 💡 DSA in C++ | 🤖 Agentic AI Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🗄️ Oracle APEX & PL/SQL | 🤖 Agentic AI Builder</h3>
 
 ---
 
@@ -14,10 +14,10 @@
 
 ### 🧠 About Me  
 
-- 💻 I’m a **MERN Stack Developer** passionate about crafting seamless web experiences.  
-- ⚡ I work with **MongoDB, Express.js, React.js, Node.js, and Next.js**.  
-- 🧩 I’m currently enhancing my problem-solving skills through **DSA in C++**.  
-- 🤖 Exploring **Agentic AI** and how it can empower full-stack applications.  
+- 💻 B.Tech ECE student building full-stack and enterprise applications — from MERN web apps to autonomous, multi-agent systems.  
+- 🗄️ IT Applications Intern at **Honda India Power Products**, building internal business applications with **Oracle APEX, SQL, PL/SQL, and Qlik**.  
+- 🤖 Exploring **agentic AI architectures** — multi-agent PL/SQL pipelines and LLM-grounded assistants that query live data before responding.  
+- 🧩 Solved **250+ DSA problems on LeetCode** in C++.  
 - 🌱 Always learning — always building.
 
 ---
@@ -25,28 +25,40 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,cpp,git,github,tailwind,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,cpp,git,github,tailwind,vscode,postman" />
+</p>
+
+<p align="center">
+  <em>Also working with: Oracle APEX · PL/SQL · ORDS · Qlik · Groq (LLaMA 3)</em>
 </p>
 
 ---
 
-### 🧩 My Projects  
+### 🧩 Featured Projects  
 
-#### 📰 [MegaBlogs](https://mega-blogs-one.vercel.app/)
-> A modern blog platform built using **React, Redux, Tailwind CSS**, and **Appwrite** for backend services.  
-> 🖌️ Clean red–white UI, smooth animations, and a fully functional editor powered by TinyMCE.  
+#### 🏭 [Inventra AI (SupplyMind)](https://github.com/Sajalsinghal17/Inventra_AI)
+> Autonomous supply chain intelligence platform on Oracle APEX with a **5-agent PL/SQL pipeline** — demand forecasting, risk detection, anomaly monitoring, simulation, and LLM-generated reasoning (Groq/LLaMA 3).  
+> 🏗️ Multi-tenant, multi-vertical architecture. Self-hosted end-to-end on an OCI Always Free VM with Let's Encrypt HTTPS.  
+> 🔗 [Live Demo](https://inventra-ai.duckdns.org/ords/r/inventra_ai/inventra-ai/get-started)
 
 <p align="center">
-  <img src="https://github.com/Sajalsinghal17/megaBlogs/blob/main/megaBlogs%20preview.png" alt="MegaBlogs Preview" width="600" style="border-radius:12px;"/>
+  <img src="https://raw.githubusercontent.com/Sajalsinghal17/Inventra_AI/main/docs/command-center.png" alt="Inventra AI Preview" width="600" style="border-radius:12px;"/>
 </p>
+
+---
+
+#### 🧵 [NexusOps](https://github.com/Sajalsinghal17/NexusOps)
+> Role-based enterprise task-tracking platform (MERN) with **JWT authentication**, RBAC across four roles, and a **context-grounded AI assistant** (Google Gemini API) that queries live database records before responding — preventing hallucination.  
+> ⚙️ Deployed as independently scaled frontend (Vercel) and backend (Render) services.  
+> 🔗 [Live Demo](https://nexus-ops-six.vercel.app/)
 
 ---
 
 ### 💻 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajalSinghal&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajalSinghal&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sajalsinghal17&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajalsinghal17&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
